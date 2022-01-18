@@ -1,0 +1,24 @@
+[PROJECT]
+Target=projj.hex
+Processor_Text=PIC16F877A
+CCSVerions=5.007
+Compiler=PCM
+CCSVersion=5.007
+[Target Data]
+FileList=projj.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\;C:\Users\ALTINIÞIK\Documents\
+[C:\Users\ALTINIÞIK\Documents\projj]
+Type=4
+[mru-list]
+1=projj.c
+[Opened Files]
+1=projj.c
+2=
+3=..\..\..\Program Files (x86)\PICC\Devices\16F877A.h
+4=
+[projj.c]
+Type=4
+[Units]
+Count=1
+1=projj (main)
